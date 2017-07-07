@@ -24,7 +24,6 @@ namespace _05.TearListInHalf
                 result.Add(int.Parse(secondHalf));
             }
             Console.WriteLine(string.Join(" ", result));
-            
         }
     }
 }

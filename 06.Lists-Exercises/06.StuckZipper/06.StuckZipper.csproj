@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB693A4F-1886-4BE5-9CE3-E762441BC27F}</ProjectGuid>
+    <ProjectGuid>{1B4DAE07-86ED-41F3-9152-678147674016}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_06.StuckZipper</RootNamespace>
     <AssemblyName>06.StuckZipper</AssemblyName>

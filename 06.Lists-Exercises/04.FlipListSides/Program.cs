@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4.FlipListSides
+namespace _04.FlipListSides
 {
     class Program
     {
@@ -43,7 +43,7 @@ namespace _4.FlipListSides
                     secondHalf.Add(numbers[i]);
                 }
             }
-            
+
             firstHalf.Reverse();
             secondHalf.Reverse();
             result.Add(firstElement);

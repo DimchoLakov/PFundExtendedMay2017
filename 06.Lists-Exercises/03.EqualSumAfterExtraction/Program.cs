@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3.EqualSumAfterExtraction
+namespace _03.EqualSumAfterExtraction
 {
     class Program
     {
@@ -35,7 +35,6 @@ namespace _3.EqualSumAfterExtraction
             {
                 Console.WriteLine($"No. Diff: {Math.Abs(sumOne - sumTwo)}");
             }
-
         }
     }
 }

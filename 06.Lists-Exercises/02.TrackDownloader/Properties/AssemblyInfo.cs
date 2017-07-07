@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("1.RemoveElementsAtOddPositions")]
+[assembly: AssemblyTitle("02.TrackDownloader")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("1.RemoveElementsAtOddPositions")]
+[assembly: AssemblyProduct("02.TrackDownloader")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("271978af-4fb6-499e-bc89-87d630843d36")]
+[assembly: Guid("5ee16b6a-60b3-4a2a-9737-43c835461756")]
 
 // Version information for an assembly consists of the following four values:
 //

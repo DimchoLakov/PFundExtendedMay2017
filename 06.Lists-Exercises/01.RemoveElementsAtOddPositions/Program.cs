@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1.RemoveElementsAtOddPositions
+namespace _01.RemoveElementsAtOddPositions
 {
     class Program
     {

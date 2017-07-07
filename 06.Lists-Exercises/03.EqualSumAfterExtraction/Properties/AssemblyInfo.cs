@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("4.FlipListSides")]
+[assembly: AssemblyTitle("03.EqualSumAfterExtraction")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("4.FlipListSides")]
+[assembly: AssemblyProduct("03.EqualSumAfterExtraction")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("55f596b8-3938-4a29-9a77-7d175342ffe7")]
+[assembly: Guid("4a0d0eb3-ee2a-45f6-9ba4-20a2b087f92d")]
 
 // Version information for an assembly consists of the following four values:
 //

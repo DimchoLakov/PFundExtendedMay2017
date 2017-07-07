@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2.TrackDownloader
+namespace _02.TrackDownloader
 {
     class Program
     {
@@ -12,8 +12,8 @@ namespace _2.TrackDownloader
         {
             List<string> blacklistedWords = Console.ReadLine().Split(' ').ToList();
             List<string> result = new List<string>();
-            
-            char[] delimiters = new char[] { ' ', '.', '(', ')', '\'', '_'};
+
+            char[] delimiters = new char[] { ' ', '.', '(', ')', '\'', '_' };
 
             string input = Console.ReadLine();
 
@@ -37,7 +37,7 @@ namespace _2.TrackDownloader
                 {
                     result.Add(input);
                 }
-                
+
                 isBlackListed = false;
                 input = Console.ReadLine();
                 filenames = input.Split(delimiters, StringSplitOptions.RemoveEmptyEntries).ToList();

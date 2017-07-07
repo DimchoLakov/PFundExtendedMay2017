@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55F596B8-3938-4A29-9A77-7D175342FFE7}</ProjectGuid>
+    <ProjectGuid>{5EE16B6A-60B3-4A2A-9737-43C835461756}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_4.FlipListSides</RootNamespace>
-    <AssemblyName>4.FlipListSides</AssemblyName>
+    <RootNamespace>_02.TrackDownloader</RootNamespace>
+    <AssemblyName>02.TrackDownloader</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

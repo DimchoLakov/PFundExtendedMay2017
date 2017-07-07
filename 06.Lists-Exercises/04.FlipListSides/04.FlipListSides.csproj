@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E3201E6B-EAB8-49D1-8280-70120DD47E70}</ProjectGuid>
+    <ProjectGuid>{181BA6CB-70F4-4BF7-9480-862E3DE29374}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_3.EqualSumAfterExtraction</RootNamespace>
-    <AssemblyName>3.EqualSumAfterExtraction</AssemblyName>
+    <RootNamespace>_04.FlipListSides</RootNamespace>
+    <AssemblyName>04.FlipListSides</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

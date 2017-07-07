@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85BC9736-1042-4704-9EB2-B47854FD12A1}</ProjectGuid>
+    <ProjectGuid>{B6FF99DD-8DDF-4BF7-8ECD-3962915A2B75}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_05.TearListInHalf</RootNamespace>
     <AssemblyName>05.TearListInHalf</AssemblyName>

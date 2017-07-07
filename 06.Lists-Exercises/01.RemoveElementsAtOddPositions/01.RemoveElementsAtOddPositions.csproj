@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A04C2EF9-A443-4F04-A522-1E6105D9A7FB}</ProjectGuid>
+    <ProjectGuid>{EBB34D92-5B2E-453A-83A9-50A4EE19FA2D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2.TrackDownloader</RootNamespace>
-    <AssemblyName>2.TrackDownloader</AssemblyName>
+    <RootNamespace>_01.RemoveElementsAtOddPositions</RootNamespace>
+    <AssemblyName>01.RemoveElementsAtOddPositions</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
