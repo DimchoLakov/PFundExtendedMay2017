@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrayData", "01.ArrayDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StringDecryption", "02.StringDecryption\02.StringDecryption.csproj", "{750C167A-D7DB-430F-980B-C4575A8A17F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Camping", "03.Camping\03.Camping.csproj", "{C0AE154D-92A2-4FB8-9B54-A88407276BB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{750C167A-D7DB-430F-980B-C4575A8A17F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750C167A-D7DB-430F-980B-C4575A8A17F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750C167A-D7DB-430F-980B-C4575A8A17F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AE154D-92A2-4FB8-9B54-A88407276BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AE154D-92A2-4FB8-9B54-A88407276BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AE154D-92A2-4FB8-9B54-A88407276BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AE154D-92A2-4FB8-9B54-A88407276BB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
