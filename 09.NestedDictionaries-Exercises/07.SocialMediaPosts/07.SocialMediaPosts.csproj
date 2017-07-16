@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CAD8378-DAC2-4677-8C74-51845D046B1F}</ProjectGuid>
+    <ProjectGuid>{4DC84D06-313F-4826-B5C7-DCFC5B7743D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.Winecraft</RootNamespace>
-    <AssemblyName>06.Winecraft</AssemblyName>
+    <RootNamespace>_07.SocialMediaPosts</RootNamespace>
+    <AssemblyName>07.SocialMediaPosts</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

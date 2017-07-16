@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CAD8378-DAC2-4677-8C74-51845D046B1F}</ProjectGuid>
+    <ProjectGuid>{FD1C4599-9912-4A1E-AB79-EBF0F6774135}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.Winecraft</RootNamespace>
-    <AssemblyName>06.Winecraft</AssemblyName>
+    <RootNamespace>_04.FoldAndSum</RootNamespace>
+    <AssemblyName>04.FoldAndSum</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CAD8378-DAC2-4677-8C74-51845D046B1F}</ProjectGuid>
+    <ProjectGuid>{BAF565E9-5F4C-4C2C-926F-F82E13127C76}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.Winecraft</RootNamespace>
-    <AssemblyName>06.Winecraft</AssemblyName>
+    <RootNamespace>_05.Dict_Ref_Advanced</RootNamespace>
+    <AssemblyName>05.Dict-Ref-Advanced</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

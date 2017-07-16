@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CAD8378-DAC2-4677-8C74-51845D046B1F}</ProjectGuid>
+    <ProjectGuid>{731BB8C4-6D3B-4872-900F-5AF7383FAE8A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.Winecraft</RootNamespace>
-    <AssemblyName>06.Winecraft</AssemblyName>
+    <RootNamespace>_02.SmallestElementInArray</RootNamespace>
+    <AssemblyName>02.SmallestElementInArray</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CAD8378-DAC2-4677-8C74-51845D046B1F}</ProjectGuid>
+    <ProjectGuid>{9914C5C5-960A-40BF-BCFF-4750C37DA88A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.Winecraft</RootNamespace>
-    <AssemblyName>06.Winecraft</AssemblyName>
+    <RootNamespace>_03.ShortWordsSorted</RootNamespace>
+    <AssemblyName>03.ShortWordsSorted</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
