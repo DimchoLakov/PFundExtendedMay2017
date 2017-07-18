@@ -21,7 +21,7 @@ namespace _05.LambadaExpressions
                 if (tokens[0] == "dance")
                 {
                     var temp = lambadaDict.ToDictionary(pair => pair.Key, pair => pair.Value);
-
+                   
                     foreach (KeyValuePair<string, string> pair in temp)
                     {
                         string[] value = temp[pair.Key].Split('.');
