@@ -16,7 +16,7 @@ namespace _05.LambadaExpressions
 
             while (input != "lambada")
             {
-                string[] tokens = input.Split(new string[] {" => "}, StringSplitOptions.RemoveEmptyEntries);
+                string[] tokens = input.Split(new string[] { " => " }, StringSplitOptions.RemoveEmptyEntries);
 
                 if (tokens[0] == "dance")
                 {
@@ -30,15 +30,13 @@ namespace _05.LambadaExpressions
 
                         lambadaDict[pair.Key] = modifiedText + lambadaDict[pair.Key];
                     }
-
-                    
                 }
                 else
                 {
                     string selector = tokens[0];
                     string objectAndProperty = tokens[1];
 
-                    if (! lambadaDict.ContainsKey(selector))
+                    if (!lambadaDict.ContainsKey(selector))
                     {
                         lambadaDict.Add(selector, objectAndProperty);
                     }
@@ -46,7 +44,7 @@ namespace _05.LambadaExpressions
                     {
                         lambadaDict[selector] = objectAndProperty;
                     }
-                    
+
                 }
 
                 input = Console.ReadLine();
