@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RandomizeWords", "02.Ran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BigFactorial", "03.BigFactorial\03.BigFactorial.csproj", "{CDCD547C-60C6-45BF-8D7E-BA41EE1BC7B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DistanceBetweenTwoPoints", "04.DistanceBetweenTwoPoints\04.DistanceBetweenTwoPoints.csproj", "{CBB043E8-4B3B-4FCA-ACDC-B12ABD999180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CDCD547C-60C6-45BF-8D7E-BA41EE1BC7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCD547C-60C6-45BF-8D7E-BA41EE1BC7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCD547C-60C6-45BF-8D7E-BA41EE1BC7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB043E8-4B3B-4FCA-ACDC-B12ABD999180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB043E8-4B3B-4FCA-ACDC-B12ABD999180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB043E8-4B3B-4FCA-ACDC-B12ABD999180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB043E8-4B3B-4FCA-ACDC-B12ABD999180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
