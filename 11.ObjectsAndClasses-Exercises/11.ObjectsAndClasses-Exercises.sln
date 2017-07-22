@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exercises", "01.Exercise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OrderedBankingSystem", "02.OrderedBankingSystem\02.OrderedBankingSystem.csproj", "{159996B6-7714-4422-8AAA-D59B217D6F6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Animals", "03.Animals\03.Animals.csproj", "{F37EB355-98EE-487E-A696-32F3BB255973}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{159996B6-7714-4422-8AAA-D59B217D6F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{159996B6-7714-4422-8AAA-D59B217D6F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{159996B6-7714-4422-8AAA-D59B217D6F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37EB355-98EE-487E-A696-32F3BB255973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37EB355-98EE-487E-A696-32F3BB255973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37EB355-98EE-487E-A696-32F3BB255973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37EB355-98EE-487E-A696-32F3BB255973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

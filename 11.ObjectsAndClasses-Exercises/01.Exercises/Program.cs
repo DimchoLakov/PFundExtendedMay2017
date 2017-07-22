@@ -13,8 +13,6 @@ namespace _01.Exercises
         public string JudgeContestLink { get; set; }
 
         public List<string> Problems { get; set; }
-
-
     }
 
     class Program
@@ -37,9 +35,9 @@ namespace _01.Exercises
                 string[] problems = tokens[3].Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries);
                 newExercise.Problems = new List<string>();
 
-                for (int i = 0; i < problems.Length; i++)
+                foreach (string problem in problems)
                 {
-                    newExercise.Problems.Add(problems[i]);
+                    newExercise.Problems.Add(problem);
                 }
                 exercises.Add(newExercise);
 
