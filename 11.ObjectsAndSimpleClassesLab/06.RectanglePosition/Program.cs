@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -42,7 +43,7 @@ namespace _06.RectanglePosition
 
             return isLeftValid && isTopValid && isRightValid && isBottomValid;
         }
-
+        
     }
 
     class Program
@@ -51,11 +52,11 @@ namespace _06.RectanglePosition
         {
             Rectangle firstRectangle = ReadRectangle();
             Rectangle secondRectangle = ReadRectangle();
-
+            
             bool result = firstRectangle.IsInside(secondRectangle);
-
+            
             string printResult = result ? $"Inside" : $"Not inside";
-
+            
             Console.WriteLine(printResult);
         }
 
