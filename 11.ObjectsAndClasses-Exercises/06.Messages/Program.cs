@@ -37,7 +37,6 @@ namespace _06.Messages
         {
             Dictionary<string, User> users = new Dictionary<string, User>();
 
-
             string input = Console.ReadLine();
 
             while (input != "exit")
@@ -67,14 +66,14 @@ namespace _06.Messages
 
             string[] chatTokens = Console.ReadLine().Split(' ');
 
-            string charSender = chatTokens[0];
-            string charRecipient = chatTokens[1];
+            string chatSender = chatTokens[0];
+            string chatRecipient = chatTokens[1];
 
-            List<Message> senderMessages = users[charRecipient].ReceivedMessages
-                .Where(m => m.Sender.Username == charSender).ToList();
+            List<Message> senderMessages = users[chatRecipient].ReceivedMessages
+                .Where(m => m.Sender.Username == chatSender).ToList();
 
-            List<Message> recipientMessages = users[charSender].ReceivedMessages
-                .Where(m => m.Sender.Username == charRecipient).ToList();
+            List<Message> recipientMessages = users[chatSender].ReceivedMessages
+                .Where(m => m.Sender.Username == chatRecipient).ToList();
 
             if (senderMessages.Count == 0 && recipientMessages.Count == 0)
             {
@@ -86,20 +85,20 @@ namespace _06.Messages
 
             while (index < senderMessages.Count && index < recipientMessages.Count)
             {
-                Console.WriteLine($"{charSender}: {senderMessages[index].Content}");
-                Console.WriteLine($"{recipientMessages[index].Content} :{charRecipient}");
+                Console.WriteLine($"{chatSender}: {senderMessages[index].Content}");
+                Console.WriteLine($"{recipientMessages[index].Content} :{chatRecipient}");
 
                 index++;
             }
 
             while (index < senderMessages.Count)
             {
-                Console.WriteLine($"{charSender}: {senderMessages[index].Content}");
+                Console.WriteLine($"{chatSender}: {senderMessages[index].Content}");
                 index++;
             }
             while (index < recipientMessages.Count)
             {
-                Console.WriteLine($"{recipientMessages[index].Content} :{charRecipient}");
+                Console.WriteLine($"{recipientMessages[index].Content} :{chatRecipient}");
                 index++;
             }
         }
