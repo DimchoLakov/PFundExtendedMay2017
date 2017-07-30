@@ -8,7 +8,7 @@ namespace _02.CountSubstringOccurences
         {
             string givenText = Console.ReadLine().ToLower();
             string wantedString = Console.ReadLine().ToLower();
-
+            
             int index = givenText.IndexOf(wantedString);
             int occurences = 0;
 
