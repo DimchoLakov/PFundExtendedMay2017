@@ -39,10 +39,7 @@ namespace _02.DiamondProblem
 
         private static void PrintDiamonds(int carats)
         {
-            if (carats > 0)
-            {
-                Console.WriteLine($"Found {carats} carat diamond");
-            }
+            Console.WriteLine($"Found {carats} carat diamond");
         }
 
         public static int CalculateCarats(string input, int startIndex, int endIndex)
