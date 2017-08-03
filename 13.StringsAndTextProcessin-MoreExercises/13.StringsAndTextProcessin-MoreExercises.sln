@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DeserializeString", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StringCommander", "05.StringCommander\05.StringCommander.csproj", "{99512A36-1E17-495C-92F5-C61ADD848694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StringCommander2", "05.StringCommander2\05.StringCommander2.csproj", "{2273E351-767A-4E7A-AC0A-F04956209FD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{99512A36-1E17-495C-92F5-C61ADD848694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99512A36-1E17-495C-92F5-C61ADD848694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99512A36-1E17-495C-92F5-C61ADD848694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2273E351-767A-4E7A-AC0A-F04956209FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2273E351-767A-4E7A-AC0A-F04956209FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2273E351-767A-4E7A-AC0A-F04956209FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2273E351-767A-4E7A-AC0A-F04956209FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
