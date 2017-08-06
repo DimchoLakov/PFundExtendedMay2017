@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StringCommander2", "05.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Stateless", "06.Stateless\06.Stateless.csproj", "{660CF08F-CBCA-4818-9B1E-C5C061062BFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Pyramidic", "07.Pyramidic\07.Pyramidic.csproj", "{375D276B-64A5-465D-B007-B321A7B8831E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{660CF08F-CBCA-4818-9B1E-C5C061062BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{660CF08F-CBCA-4818-9B1E-C5C061062BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{660CF08F-CBCA-4818-9B1E-C5C061062BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375D276B-64A5-465D-B007-B321A7B8831E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375D276B-64A5-465D-B007-B321A7B8831E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375D276B-64A5-465D-B007-B321A7B8831E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375D276B-64A5-465D-B007-B321A7B8831E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
