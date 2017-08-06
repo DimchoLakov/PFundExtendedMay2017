@@ -1,2 +1,2 @@
 # ProgrammingFundamentalsExtendedMay2017
-Exercises
+Programming Fundamentals Extended Exercises
