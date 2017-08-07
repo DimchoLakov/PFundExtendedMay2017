@@ -15,7 +15,7 @@ namespace _01.MatchFullName
             
             foreach (Match match in matches)
             {
-                Console.Write($"{match} ");
+                Console.Write($"{match} "); // or match.Value or match.Groups[0] --> all the same
             }
         }
     }
