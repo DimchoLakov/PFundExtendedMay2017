@@ -13,7 +13,7 @@ namespace _03.BoomingCannon
             int skipCount = distanceAndCount[0];
             int takeCount = distanceAndCount[1];
 
-            string pattern = @"(?<=\\<<<)(?<target>[^\\<]+)";
+            string pattern = @"(?<=\\<<<)[^\\<]+";
 
             List<string> result = new List<string>();
 
