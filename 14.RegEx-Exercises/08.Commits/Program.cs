@@ -41,6 +41,7 @@ namespace _08.Commits
             {
                 Regex gitRegex = new Regex(gitPattern);
                 Match gitMatch = gitRegex.Match(input);
+
                 if (!gitRegex.IsMatch(input))
                 {
                     input = Console.ReadLine();
@@ -49,7 +50,6 @@ namespace _08.Commits
 
                 string username = gitMatch.Groups["user"].ToString();
                 string repo = gitMatch.Groups["repo"].ToString();
-                string commit = gitMatch.Groups["commit"].ToString();
                 string hash = gitMatch.Groups["hash"].ToString();
                 string message = gitMatch.Groups["message"].ToString();
                 int additions = int.Parse(gitMatch.Groups["additions"].ToString());
@@ -86,7 +86,6 @@ namespace _08.Commits
                     Console.WriteLine($"Total: {totalAdditions} additions, {totalDeletions} deletions");
                 }
             }
-
         }
     }
 }
