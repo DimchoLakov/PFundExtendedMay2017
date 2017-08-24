@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01.Greeting
 {
@@ -10,6 +6,8 @@ namespace _01.Greeting
     {
         static void Main(string[] args)
         {
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}!");
         }
     }
 }
