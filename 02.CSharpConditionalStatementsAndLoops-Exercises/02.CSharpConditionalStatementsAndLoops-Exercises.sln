@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ChooseADrink", "01.Choos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ChooseADrink2", "02.ChooseADrink2\02.ChooseADrink2.csproj", "{0BCD5028-0A17-48EA-A6D7-4402A0193285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RestaurantDiscount", "03.RestaurantDiscount\03.RestaurantDiscount.csproj", "{01CA1FB2-C48C-48AE-B74C-E34A57B28342}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0BCD5028-0A17-48EA-A6D7-4402A0193285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCD5028-0A17-48EA-A6D7-4402A0193285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCD5028-0A17-48EA-A6D7-4402A0193285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CA1FB2-C48C-48AE-B74C-E34A57B28342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CA1FB2-C48C-48AE-B74C-E34A57B28342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CA1FB2-C48C-48AE-B74C-E34A57B28342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CA1FB2-C48C-48AE-B74C-E34A57B28342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
