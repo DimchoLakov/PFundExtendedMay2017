@@ -1,5 +1,5 @@
 # ProgrammingFundamentalsExtendedMay2017
-Programming Fundamentals Extended Exercises
+[Programming Fundamentals - Extended - May 2017](https://softuni.bg/trainings/1618/programming-fundamentals-extended-may-2017)
 
 The “Programming Fundamentals” course extends the previously gained basic coding skills from the “Programming Basics” course at the Software University and adds additional knowledge and practical programming skills.
 
